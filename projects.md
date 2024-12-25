@@ -13,3 +13,7 @@ This project was grounded in the cultural evolutionary theory - a theory based o
 
 For sentiment analysis, I used VADER, Twitter-roBERTa-base for Sentiment Analysis from Hugging Face, and a fine-tuned RoBERTa. For emotion analysis - NRCLex, Emotion English DistilroBERTa-base from HuggingFace and a fine-tuned RoBERTa
 
+<p align="center">
+  <img src="https://github.com/anko98/portfolio/blob/main/images/distribution%20of%20sentiment%20scores%20by%20tweet%20type.png?raw=true" alt="Sentiment distribution" width="400">
+</p>
+There were fewer conspiracy tweets and they were more negative.
