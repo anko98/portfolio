@@ -5,4 +5,6 @@ title: Projects
 
 # My Projects
 
-Blahbah I do a lot of projects
+[Home](https://anko98.github.io/portfolio/) | [Projects](https://anko98.github.io/portfolio/projects)
+
+### Comparative Analysis of Sentiment and Emotion Prediction Models in Context of Covid-19 Conspiracy Theories
