@@ -5,8 +5,8 @@
 - 2023; Data Science Intern at Evergreen Life 
 
 ### Education
-Master of Data Science; Durham University
-Master of Arts, Psychology, University of Aberdeen
+- Master of Data Science; Durham University
+- Master of Arts, Psychology, University of Aberdeen
 
 ### Projects
 - Comparative Analysis of Sentiment and Emotion Prediction Models in Context of Covid-19 Conspiracy Theories
