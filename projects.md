@@ -7,6 +7,8 @@ title: Projects
 
 [Home](https://anko98.github.io/portfolio/) | [Projects](https://anko98.github.io/portfolio/projects)
 
+Code to all my projects is in the projects_code folder :)
+
 ### Comparative Analysis of Sentiment and Emotion Prediction Models in Context of Covid-19 Conspiracy Theories
 
 This project was grounded in the cultural evolutionary theory - a theory based on Darwinian evolutionary theory, which claims that cultural information is spread according to the features, which increase their probablity of spreading. I wanted to find out whether negative Tweets will spread better, and also, compare classic and more modern sentiment and emotion analysis methods.
