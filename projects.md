@@ -7,7 +7,7 @@ title: Projects
 
 [Home](https://anko98.github.io/portfolio/) | [Projects](https://anko98.github.io/portfolio/projects)
 
-Code to all my projects is in the projects_code folder :)
+Code to all my projects is in /projects_code :)
 
 ### Comparative Analysis of Sentiment and Emotion Prediction Models in Context of Covid-19 Conspiracy Theories
 
